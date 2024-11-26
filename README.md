@@ -1,3 +1,3 @@
-#Just for playing with how github works
+# Just for playing with how github works
 
 Awesome code
